@@ -44,14 +44,23 @@ body {
     
 div {
   border: 1px solid blue;  Sets a blue border for all divs 
-  margin: 0px;
+    margin: 0px;
+    margin: 0px;
   padding: 0px;
 }
 
 wrapper {
   border: 1px solid green;  Sets a blue border for all divs 
   margin: 0px;
+    margin: 0px;
+ padding: 0px;
+}
+
+home {
+  border: 1px solid green;  Sets a blue border for all divs 
+  margin-right: -305px;
   padding: 0px;
+  margin-right: -50px;
 }
  
 .top-left-box {

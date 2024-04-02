@@ -53,9 +53,6 @@ div {
 margin: 0px;
 }
 
-.home {
-
-}
  
 .top-left-box {
   overflow: hidden; /* This hides any overflow the scaling might cause */
@@ -75,7 +72,6 @@ margin: 0px;
 }
 
 .bottom-left-box {
-  overflow: hidden; /* This hides any overflow the scaling might cause */
   width: 610px;
 
 .center-box {

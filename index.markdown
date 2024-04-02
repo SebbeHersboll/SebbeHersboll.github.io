@@ -111,6 +111,8 @@ div {
       <div class="bottom-left-box">
         <!-- Content for the new div goes here -->
         <p>New Div Content</p>
+        <p>New Div Content</p>
+        <p>New Div Content</p>
       </div>
     </div>
     <div class="center-box">

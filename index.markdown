@@ -16,7 +16,6 @@ body {
   border-top-left-radius: 10px;
   border-top-right-radius: 10px;
   background-color: #262626; 
-  margin: 10px;
 }
 
 .container2 {
@@ -30,7 +29,6 @@ body {
   border-bottom-right-radius: 10px;
   margin-bottom: 40px;
   background-color: #262626; 
-  margin: 10px;
 }
 
 .container3 {
@@ -41,15 +39,13 @@ body {
   /* Adjust the top and bottom margin as needed, keeping the left and right margins as auto */
   background-color: #ffffff;
   padding: 5px; 
-  margin: 10px;
 }
 
     
-/*div {
-  #border: 2px solid blue;  Sets a blue border for all divs 
-  margin: 10px; /* Adds space around each div 
-  background-color: #262626;
-}*/
+div {
+#border: 1px solid blue;  Sets a blue border for all divs 
+  margin: 10px; 
+}
  
 .top-left-box {
   overflow: hidden; /* This hides any overflow the scaling might cause */

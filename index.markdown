@@ -50,7 +50,7 @@ div {
 }
 
 .wrapper {
-
+margin: 0px;
 }
 
 .home {
@@ -153,14 +153,13 @@ div {
     </div>
   </div>
 
- <!-- Text for the website -->
+
 
   <div class="container3">
       <section class="home">
         <h2>Introduction to the SF Crime Dataset</h2>
         <p>The data that has been used, comes from the dataset Police_Department_Incident_Reports__Historical_2003_to_May_2018_20240130.csv, that can be accessed and downloaded on San Francisco´s police department website. The data spans from 2003 to May of 2018, and consists of occurrences of different crimes, such as assault, burglary, vehicle theft and so on, as well as where and when these crimes have occurred.<p/>
-      </section>
-  </div>
+     
 
   <div class="container3">
      <section class="home">

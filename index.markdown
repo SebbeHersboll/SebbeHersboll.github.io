@@ -47,6 +47,12 @@ div {
   margin: 0px;
   padding: 0px;
 }
+
+wrapper {
+  border: 1px solid green;  Sets a blue border for all divs 
+  margin: 0px;
+  padding: 0px;
+}
  
 .top-left-box {
   overflow: hidden; /* This hides any overflow the scaling might cause */
@@ -204,10 +210,5 @@ div {
 
 
   </main>
-  <footer class="site-footer">
-    <div class="wrapper">
-      <p>&copy; 2024 Sebastian Hersbøll. All rights reserved.</p>
-    </div>
-  </footer>
 </body>
 

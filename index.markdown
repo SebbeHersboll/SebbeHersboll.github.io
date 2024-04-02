@@ -43,7 +43,7 @@ body {
 
     
 div {
-#border: 1px solid blue;  Sets a blue border for all divs 
+  border: 1px solid blue;  Sets a blue border for all divs 
   margin: 10px; 
 }
  
@@ -61,6 +61,7 @@ div {
   width: 100%; /* Makes the iframe fill the container */
   height: 100%; /* Adjust the height to match the div's scaling */
   border: 0; /* Removes the iframe border */
+  margin-right: 20px;
 }
 
 .center-box {

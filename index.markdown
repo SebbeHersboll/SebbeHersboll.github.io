@@ -43,7 +43,7 @@ body {
 
     
 div {
-  border: 1px solid blue;  Sets a blue border for all divs 
+ /* border: 1px solid blue;  Sets a blue border for all divs */
     margin: 0px;
     margin: 0px;
   padding: 0px;

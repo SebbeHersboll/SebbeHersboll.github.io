@@ -119,7 +119,8 @@ div {
   <div class="container1" >
     <div class="left-column">
       <div class="top-left-box">
-        <iframe src="interactive_crime_hours.html"></iframe>
+        <!--  <iframe src="interactive_crime_hours.html"></iframe> -->
+        <iframe src="bokeh_plot.html"></iframe>
       </div>
       <div class="bottom-left-box">
         <!-- Content for the new div goes here -->

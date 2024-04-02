@@ -86,6 +86,10 @@ div {
   transform-origin: top left;
 }
 
+.bottom-left-box {
+maring-top: -50px;
+}
+
 .bottom-box iframe, .center-box iframe {
   width: 100%; /* Makes the iframe fill the container */
   height: 100%; /* Adjust the height to match the div's scaling */

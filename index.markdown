@@ -114,7 +114,7 @@ body {
     </div>
     <div class="center-box">
           <select id="crimeSelection">
-        <option value="map_weapon laws.html">Weapon Laws</option>
+        <option value="map_WEAPON LAWS.html">Weapon Laws</option>
         <option value="Map/map_prostitution.html">Prostitution</option>
         <option value="Map/map_driving under the influence.html">Driving Under The Influence</option>
         <option value="Map/map_robbery.html">Robbery</option>

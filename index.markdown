@@ -15,6 +15,7 @@ body {
   #background-color: #1c1d1f;
   border-top-left-radius: 10px;
   border-top-right-radius: 10px;
+  background-color: #262626;
 }
 
 .container2 {
@@ -27,6 +28,7 @@ body {
   border-bottom-left-radius: 10px;
   border-bottom-right-radius: 10px;
   margin-bottom: 40px;
+  background-color: #262626;
 }
 
 .container3 {

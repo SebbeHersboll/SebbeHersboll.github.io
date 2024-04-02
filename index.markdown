@@ -86,11 +86,7 @@ body {
   border: 0; /* Removes the iframe border */
 }
 
-
-
-
 </style>
-
 
 
   <div class="container3">
@@ -100,7 +96,6 @@ body {
      </section>
   </div>
 
-<iframe src="map_WEAPON LAWS.html"></iframe>
 
   <div class="container1" >
     <div class="left-column">

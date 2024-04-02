@@ -138,19 +138,19 @@ body {
         <option value="Map/map_stolen property.html">Stolen Property</option>
         <option value="Map/map_disorderly conduct.html">Disorderly Conduct</option>
 
-        <!-- Add more options based on the figures you've generated -->
-    </select>
 
-    <iframe id="crimeFrame" src="plotly_figure.html"></iframe>
+</select>
 
-    <script>
-        document.getElementById('crimeSelection').addEventListener('change', function() {
-            var selectedCrime = this.value;
-            document.getElementById('crimeFrame').src = selectedCrime;
-        });
-    </script>
+<iframe id="crimeFrame" src="plotly_figure.html"></iframe>
 
-    </div>
+<script>
+    document.getElementById('crimeSelection').addEventListener('change', function() {
+        var selectedCrime = this.value;
+        document.getElementById('crimeFrame').src = selectedCrime;
+    });
+</script>
+
+</div>
   </div>
 
   <div class="container2">

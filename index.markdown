@@ -49,9 +49,6 @@ div {
   padding: 0px;
 }
 
-.wrapper {
-margin: 0px;
-}
 
  
 .top-left-box {
@@ -72,7 +69,7 @@ margin: 0px;
 }
 
 .bottom-left-box {
-  width: 610px;
+  width: 50px;
 
 .center-box {
   overflow: hidden;

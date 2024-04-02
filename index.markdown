@@ -92,15 +92,6 @@ body {
 </style>
 
 
-  <link rel="stylesheet" href="/assets/main.css">
-</head>
-<body style="background-color: #ffffff;>
-  <header class="site-header" style="background-color: #1c1d1f;">
-
-  </header>
-  <main class="page-content" aria-label="Content" style="background-color: #ffffff; >
-    <div class="wrapper">
-
 
   <div class="container3">
      <section class="home">

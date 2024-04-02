@@ -54,7 +54,7 @@ div {
 .top-left-box {
   overflow: hidden; /* This hides any overflow the scaling might cause */
   width: 610px;
-  height: 430px;
+  height: 830px; /* 430 */
   transform: scale(0.5);
   transform-origin: top left;
   margin-right: -305px; /* Adjust this value as needed to bring the divs closer */
@@ -68,8 +68,7 @@ div {
   margin-right: 20px;
 }
 
-.bottom-left-box {
-  width: 50px;
+
 
 .center-box {
   overflow: hidden;
@@ -108,6 +107,7 @@ div {
     <div class="left-column">
       <div class="top-left-box">
         <iframe src="interactive_crime_hours.html"></iframe> 
+          <p style="color: white;">The barchart shows a 24-hour cycle of a crime category. The map shows specific incidents reported, visualizing where cimr have happened. The timeline chart shows crime development through out the years for the different districts.</p>
       </div>
       <div class="bottom-left-box">
         <p style="color: white;">The barchart shows a 24-hour cycle of a crime category. The map shows specific incidents reported, visualizing where cimr have happened. The timeline chart shows crime development through out the years for the different districts.</p>

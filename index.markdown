@@ -50,16 +50,11 @@ div {
 }
 
 .wrapper {
-  border: 1px solid green;  Sets a blue border for all divs 
-  margin: 0px;
-    margin: 0px;
- padding: 0px;
+
 }
 
 .home {
-  border: 1px solid green;  Sets a blue border for all divs 
-  padding: 0px;
-  margin-right: -20px;
+
 }
  
 .top-left-box {
@@ -106,7 +101,7 @@ div {
 
   <div class="container3">
      <section class="home">
-        <h1>Crime in San Francisco: A data story</h1>
+        <h1>Crime in San Francisco: A data story1</h1>
         <p>Looking at the crime in San Francisco, there can be shown many interesting aspects of the historical development, trends, and popular locations of the crimes in this region. In this story of the crime that has occurred in San Francisco, we start by giving a brief introduction to the dataset that has been used to make visualizations and to gain insights.</p>
      </section>
   </div>

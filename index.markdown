@@ -132,7 +132,7 @@ body {
 
 </select>
 
-<iframe id="crimeFrame" src="plotly_figure.html"></iframe>
+<iframe id="crimeFrame" src="map_WEAPON LAWS.html"></iframe>
 
 <script>
     document.getElementById('crimeSelection').addEventListener('change', function() {

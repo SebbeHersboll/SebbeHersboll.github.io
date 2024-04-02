@@ -39,12 +39,13 @@ body {
   padding: 5px;
 }
 
-div {
-  #border: 2px solid blue; /* Sets a blue border for all divs */
-  margin: 10px; /* Adds space around each div */
+    
+/*div {
+  #border: 2px solid blue;  Sets a blue border for all divs 
+  margin: 10px; /* Adds space around each div 
   background-color: #262626;
-}
-
+}*/
+ 
 .top-left-box {
   overflow: hidden; /* This hides any overflow the scaling might cause */
   width: 610px;
@@ -111,8 +112,7 @@ div {
   <div class="container1" >
     <div class="left-column">
       <div class="top-left-box">
-        <!--  <iframe src="interactive_crime_hours.html"></iframe> -->
-        <iframe src="bokeh_plot.html"></iframe>
+        <iframe src="interactive_crime_hours.html"></iframe> 
       </div>
       <div class="bottom-left-box">
         <!-- Content for the new div goes here -->

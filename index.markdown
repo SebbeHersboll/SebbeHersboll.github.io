@@ -110,21 +110,19 @@ body {
     <div class="center-box">
           <select id="crimeSelection">
         <option value="map_WEAPON LAWS.html">Weapon Laws</option>
-        <option value="Map/map_prostitution.html">Prostitution</option>
-        <option value="Map/map_driving under the influence.html">Driving Under The Influence</option>
-        <option value="Map/map_robbery.html">Robbery</option>
-        <option value="Map/map_burglary.html">Burglary</option>
-        <option value="Map/map_assault.html">Assault</option>
-        <option value="Map/map_drunkenness.html">Drunkenness</option>
-        <option value="Map/map_drug_narcotic.html">Drug/Narcotic</option>
-        <option value="Map/map_trespass.html">Trespass</option>
-        <option value="Map/map_larceny_theft.html">Larceny/Theft</option>
-        <option value="Map/map_vandalism.html">Vandalism</option>
-        <option value="Map/map_vehicle theft.html">Vehicle Theft</option>
-        <option value="Map/map_stolen property.html">Stolen Property</option>
-        <option value="Map/map_disorderly conduct.html">Disorderly Conduct</option>
-
-
+        <option value="Map/map_PROSTITUTION.html">Prostitution</option>
+        <option value="Map/map_DRIVING UNDER THE INFLUENCE.html">Driving Under The Influence</option>
+        <option value="Map/map_ROBBERY.html">Robbery</option>
+        <option value="Map/map_BURGLARY.html">Burglary</option>
+        <option value="Map/map_ASSAULT.html">Assault</option>
+        <option value="Map/map_DRUNKENNESS.html">Drunkenness</option>
+        <option value="Map/map_DRUG_NARCOTIC.html">Drug/Narcotic</option>
+        <option value="Map/map_TRESPASS.html">Trespass</option>
+        <option value="Map/map_LARCENY_THEFT.html">Larceny/Theft</option>
+        <option value="Map/map_VANDALISM.html">Vandalism</option>
+        <option value="Map/map_VEHICLE THEFT.html">Vehicle Theft</option>
+        <option value="Map/map_STOLEN PROPERTY.html">Stolen Property</option>
+        <option value="Map/map_DISORDERLY CONDUCT.html">Disorderly Conduct</option>
 </select>
 
 <iframe id="crimeFrame" src="map_WEAPON LAWS.html"></iframe>

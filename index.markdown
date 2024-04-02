@@ -58,9 +58,8 @@ div {
 
 .home {
   border: 1px solid green;  Sets a blue border for all divs 
-  margin-right: -305px;
   padding: 0px;
-  margin-right: -50px;
+  margin-right: -20px;
 }
  
 .top-left-box {

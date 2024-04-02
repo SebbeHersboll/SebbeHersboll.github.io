@@ -49,14 +49,14 @@ div {
   padding: 0px;
 }
 
-wrapper {
+.wrapper {
   border: 1px solid green;  Sets a blue border for all divs 
   margin: 0px;
     margin: 0px;
  padding: 0px;
 }
 
-home {
+.home {
   border: 1px solid green;  Sets a blue border for all divs 
   margin-right: -305px;
   padding: 0px;

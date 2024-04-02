@@ -108,7 +108,7 @@ div {
       <div class="top-left-box">
         <iframe src="interactive_crime_hours.html"></iframe> 
       <div class="bottom-left-box">
-        <p style="color: white;">The barchart shows a 24-hour cycle of a crime category. The map shows specific incidents reported, visualizing where cimr have happened. The timeline chart shows crime development through out the years for the different districts.</p>
+        <p style="color: white;"></p>
       </div>
     </div>
     <div class="center-box">

@@ -74,6 +74,10 @@ margin: 0px;
   margin-right: 20px;
 }
 
+.bottom-left-box {
+  overflow: hidden; /* This hides any overflow the scaling might cause */
+  width: 610px;
+
 .center-box {
   overflow: hidden;
   width: 680px;
@@ -101,7 +105,7 @@ margin: 0px;
 
   <div class="container3">
      <section class="home">
-        <h1>Crime in San Francisco: A data story2</h1>
+        <h1>Crime in San Francisco: A data story3</h1>
         <p>Looking at the crime in San Francisco, there can be shown many interesting aspects of the historical development, trends, and popular locations of the crimes in this region. In this story of the crime that has occurred in San Francisco, we start by giving a brief introduction to the dataset that has been used to make visualizations and to gain insights.</p>
      </section>
   </div>

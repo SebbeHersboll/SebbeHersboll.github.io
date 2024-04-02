@@ -15,7 +15,8 @@ body {
   #background-color: #1c1d1f;
   border-top-left-radius: 10px;
   border-top-right-radius: 10px;
-  background-color: #262626;
+  background-color: #262626; 
+  margin: 10px;
 }
 
 .container2 {
@@ -28,7 +29,8 @@ body {
   border-bottom-left-radius: 10px;
   border-bottom-right-radius: 10px;
   margin-bottom: 40px;
-  background-color: #262626;
+  background-color: #262626; 
+  margin: 10px;
 }
 
 .container3 {
@@ -38,7 +40,8 @@ body {
   margin: auto; /* This centers the container horizontally in its parent */
   /* Adjust the top and bottom margin as needed, keeping the left and right margins as auto */
   background-color: #ffffff;
-  padding: 5px;
+  padding: 5px; 
+  margin: 10px;
 }
 
     
@@ -202,22 +205,10 @@ body {
   </div>
 
 
-<a href="https://www.example.com">Visit Example</a>
-
-
-
-
-  </div>
-      <section id="contact">
-        <h2>Contact</h2>
-        <p>Get in touch with me via email at <a href="mailto:your-email@example.com">your-email@example.com</a>.</p>
-      </section>
-    </div>
-
   </main>
   <footer class="site-footer">
     <div class="wrapper">
-      <p>&copy; 2024 Your Name. All rights reserved.</p>
+      <p>&copy; 2024 Sebastian Hersbøll. All rights reserved.</p>
     </div>
   </footer>
 </body>

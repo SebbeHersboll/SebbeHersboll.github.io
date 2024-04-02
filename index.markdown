@@ -112,12 +112,7 @@ maring-top: -50px;
       <div class="top-left-box">
         <iframe src="interactive_crime_hours.html"></iframe> 
       </div>
-         <p>New Div Content</p>
       <div class="bottom-left-box">
-        <!-- Content for the new div goes here -->
-        <p style="margin-top: -40px;>New Div Content</p>
-        <p>New Div Content</p>
-        <p>New Div Content</p>
       </div>
     </div>
     <div class="center-box">

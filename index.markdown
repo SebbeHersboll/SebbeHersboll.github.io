@@ -107,8 +107,10 @@ div {
     <div class="left-column">
       <div class="top-left-box">
         <iframe src="interactive_crime_hours.html"></iframe> 
+      </div>
       <div class="bottom-left-box">
-        <p style="color: white;"></p>
+        <!-- Content for the new div goes here -->
+        <p>New Div Content</p>
       </div>
     </div>
     <div class="center-box">
